@@ -1,12 +1,14 @@
-# LendingClubCaseStudy
+# Lending Club Case Study
 Apply EDA technique to minimise risk of losing money while lending to customer
 
 ## Table of Contents
 General Info
+
 Conclusions
+
 Contributors
 
-# General Information and business requirement 
+## General Information and business requirement 
 Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refusesto pay or runs away with the money owed.
 
 The main objective is to be able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
@@ -14,14 +16,18 @@ The main objective is to be able to identify these risky loan applicants, then s
 Perform an analysis to understand the driving factors (or driver variables) behind loan default, i.e.the variables which are strong indicators of default.
 The company can utilise this knowledge for its portfolio and risk assessment.
 
-# Using following steps for data processing.
+## Using following steps for data processing.
 Step 1: Data Cleaning
+
 Step 2: Univariate Analysis
+
 Step 3: Segemented Univariate Analysis
+
 Step 4: Bivaraiate/Multivariate Analysis
+
 Step 5: Results/Conclusion
 
-# Conclusions
+## Conclusions
 
 **Loan Purpose:** Debt consolidation and credit card payoff are the most common purposes, indicating a prevalent use of these loans for managing existing debt.
 
@@ -39,8 +45,9 @@ Loans with below criteria are highly contributing to charged off:
  * Borrower Debit to income ratio > 25% and loan amount > 15K
  * Borrower annual income <50K and loan amount > 5K
 
-# Contributors
+## Contributors
 Suhas Naik K
+
 Subrata Das
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
